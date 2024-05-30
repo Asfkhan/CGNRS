@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "personal portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asfkhan/CogniriseT1.git"
+  },
+  "author": "aseef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asfkhan/CogniriseT1/issues"
+  },
+  "homepage": "https://github.com/Asfkhan/CogniriseT1#readme"
+}
